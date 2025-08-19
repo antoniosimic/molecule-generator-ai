@@ -1,2 +1,6 @@
-# molecule-generator-ai
-A full-stack web app using Reinforcement Learning (PyTorch, Flask) and Next.js to generate novel molecules.
+# Molecule Generator
+
+A modern web application for generating and visualizing molecular structures using reinforcement learning.
+
+## Project Structure
+
