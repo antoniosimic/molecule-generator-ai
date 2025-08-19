@@ -7,7 +7,7 @@ This project is a full-stack web application that demonstrates the use of Artifi
 
 This project was developed as part of a final thesis under the mentorship of Professor Damir Pintar.
 
-**Live Application Link:** [v0-zavrsni-rad.vercel.app](https://v0-zavrsni-rad.vercel.app/) <!-- Replace with your actual Vercel link if different -->
+**Live Application Link:** [v0-zavrsni-rad.vercel.app](https://v0-zavrsni-rad.vercel.app/) 
 
 ---
 
@@ -16,6 +16,9 @@ This project was developed as part of a final thesis under the mentorship of Pro
 Traditional drug discovery is a lengthy, expensive, and often inefficient process, with failure rates exceeding 90% in clinical trials. The chemical space of possible molecules is vast (estimated at 10^60), making exhaustive searches impossible. This project explores how AI can address these challenges by intelligently navigating this space to find promising new molecules.
 
 The core of the project is an RL agent trained to perform a "molecular game": it makes small, iterative changes to a molecule's structure. The agent is rewarded based on the quality of the resulting molecule, learning a strategy to maximize desirable properties over time.
+
+<img width="1171" height="1062" alt="image" src="https://github.com/user-attachments/assets/57e0d026-f823-45fd-9789-cd6bb128ef80" />
+
 
 ### Key Features
 
@@ -57,6 +60,8 @@ This project is a full-stack application with a decoupled architecture.
 ---
 
 ## 🧠 Model Evolution
+<img width="452" height="436" alt="image" src="https://github.com/user-attachments/assets/853004da-4012-4167-b354-81a0dda15242" />
+
 
 The project was developed through an iterative process, with each model building upon the last to solve key challenges:
 
